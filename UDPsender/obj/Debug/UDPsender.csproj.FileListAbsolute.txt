@@ -1,0 +1,20 @@
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.Form1.resources
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.Properties.Resources.resources
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.csproj.GenerateResource.cache
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.csproj.CoreCompileInputs.cache
+c:\users\scott lee\source\repos\UDPsender\UDPsender\bin\Debug\UDPsender.exe.config
+c:\users\scott lee\source\repos\UDPsender\UDPsender\bin\Debug\UDPsender.exe
+c:\users\scott lee\source\repos\UDPsender\UDPsender\bin\Debug\UDPsender.pdb
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.exe
+c:\users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.pdb
+C:\Users\scott lee\source\repos\UDPsender\UDPsender\obj\Debug\UDPsender.csprojAssemblyReference.cache
+D:\Project\UDPsender\UDPsender\UDPsender\bin\Debug\UDPsender.exe.config
+D:\Project\UDPsender\UDPsender\UDPsender\bin\Debug\UDPsender.exe
+D:\Project\UDPsender\UDPsender\UDPsender\bin\Debug\UDPsender.pdb
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.csprojAssemblyReference.cache
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.Form1.resources
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.Properties.Resources.resources
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.csproj.GenerateResource.cache
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.csproj.CoreCompileInputs.cache
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.exe
+D:\Project\UDPsender\UDPsender\UDPsender\obj\Debug\UDPsender.pdb
